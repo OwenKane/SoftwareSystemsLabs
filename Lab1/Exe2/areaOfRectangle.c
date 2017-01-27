@@ -1,6 +1,8 @@
 //
 // Created by Owen Kane on 27/01/2017.
 //
+
+#include "areaOfRectangle.h"
 #include <stdio.h>
 
 int areaOfRectangle(int s1, int s2){

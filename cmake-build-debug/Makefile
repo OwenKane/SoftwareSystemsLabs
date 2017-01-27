@@ -123,87 +123,6 @@ SoftwareSystemsLabs/fast:
 	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/build
 .PHONY : SoftwareSystemsLabs/fast
 
-Lab1/areaOfRectangle.o: Lab1/areaOfRectangle.c.o
-
-.PHONY : Lab1/areaOfRectangle.o
-
-# target to build an object file
-Lab1/areaOfRectangle.c.o:
-	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab1/areaOfRectangle.c.o
-.PHONY : Lab1/areaOfRectangle.c.o
-
-Lab1/areaOfRectangle.i: Lab1/areaOfRectangle.c.i
-
-.PHONY : Lab1/areaOfRectangle.i
-
-# target to preprocess a source file
-Lab1/areaOfRectangle.c.i:
-	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab1/areaOfRectangle.c.i
-.PHONY : Lab1/areaOfRectangle.c.i
-
-Lab1/areaOfRectangle.s: Lab1/areaOfRectangle.c.s
-
-.PHONY : Lab1/areaOfRectangle.s
-
-# target to generate assembly for a file
-Lab1/areaOfRectangle.c.s:
-	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab1/areaOfRectangle.c.s
-.PHONY : Lab1/areaOfRectangle.c.s
-
-Lab1/hello.o: Lab1/hello.c.o
-
-.PHONY : Lab1/hello.o
-
-# target to build an object file
-Lab1/hello.c.o:
-	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab1/hello.c.o
-.PHONY : Lab1/hello.c.o
-
-Lab1/hello.i: Lab1/hello.c.i
-
-.PHONY : Lab1/hello.i
-
-# target to preprocess a source file
-Lab1/hello.c.i:
-	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab1/hello.c.i
-.PHONY : Lab1/hello.c.i
-
-Lab1/hello.s: Lab1/hello.c.s
-
-.PHONY : Lab1/hello.s
-
-# target to generate assembly for a file
-Lab1/hello.c.s:
-	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab1/hello.c.s
-.PHONY : Lab1/hello.c.s
-
-Lab1/main.o: Lab1/main.c.o
-
-.PHONY : Lab1/main.o
-
-# target to build an object file
-Lab1/main.c.o:
-	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab1/main.c.o
-.PHONY : Lab1/main.c.o
-
-Lab1/main.i: Lab1/main.c.i
-
-.PHONY : Lab1/main.i
-
-# target to preprocess a source file
-Lab1/main.c.i:
-	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab1/main.c.i
-.PHONY : Lab1/main.c.i
-
-Lab1/main.s: Lab1/main.c.s
-
-.PHONY : Lab1/main.s
-
-# target to generate assembly for a file
-Lab1/main.c.s:
-	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab1/main.c.s
-.PHONY : Lab1/main.c.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -213,15 +132,6 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... SoftwareSystemsLabs"
-	@echo "... Lab1/areaOfRectangle.o"
-	@echo "... Lab1/areaOfRectangle.i"
-	@echo "... Lab1/areaOfRectangle.s"
-	@echo "... Lab1/hello.o"
-	@echo "... Lab1/hello.i"
-	@echo "... Lab1/hello.s"
-	@echo "... Lab1/main.o"
-	@echo "... Lab1/main.i"
-	@echo "... Lab1/main.s"
 .PHONY : help
 
 
