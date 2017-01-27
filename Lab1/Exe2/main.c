@@ -3,6 +3,7 @@
 //
 
 #include <stdio.h>
+#include <string.h>
 #include "areaOfRectangle.h"
 
 int main(int argc, char **argv){
@@ -12,7 +13,7 @@ int main(int argc, char **argv){
     int num2;
     sscanf (argv[3],"%d",&num2);
 
-    if(argv[1] == "Rectangle"){
+    if(strcmp(argv[1], "Rectangle")) {
         areaOfRectangle(num,num2);
     }
 }
