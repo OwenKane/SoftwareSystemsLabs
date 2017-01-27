@@ -6,15 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab1/areaOfRectangle.c
+/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab1/Exe2/areaOfRectangle.c
+areaOfRectangle.h
+/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab1/Exe2/areaOfRectangle.h
 stdio.h
 -
 
-/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab1/areaOfRectangle.h
+/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab1/Exe2/areaOfRectangle.h
 
-/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab1/main.c
+/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab1/Exe2/main.c
 stdio.h
 -
 areaOfRectangle.h
-/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab1/areaOfRectangle.h
+/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab1/Exe2/areaOfRectangle.h
 

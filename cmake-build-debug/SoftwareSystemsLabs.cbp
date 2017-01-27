@@ -80,6 +80,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab1/Exe2/areaOfRectangle.c">
+			<Option target="SoftwareSystemsLabs"/>
+		</Unit>
+		<Unit filename="/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab1/Exe2/areaOfRectangle.h">
+			<Option target="SoftwareSystemsLabs"/>
+		</Unit>
+		<Unit filename="/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab1/Exe2/main.c">
+			<Option target="SoftwareSystemsLabs"/>
+		</Unit>
 		<Unit filename="/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
