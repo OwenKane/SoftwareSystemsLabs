@@ -3,7 +3,6 @@
 
 CMakeFiles/SoftwareSystemsLabs.dir/Lab1/areaOfRectangle.c.o: ../Lab1/areaOfRectangle.c
 
-CMakeFiles/SoftwareSystemsLabs.dir/Lab1/hello.c.o: ../Lab1/hello.c
 
 CMakeFiles/SoftwareSystemsLabs.dir/Lab1/main.c.o: ../Lab1/areaOfRectangle.h
 CMakeFiles/SoftwareSystemsLabs.dir/Lab1/main.c.o: ../Lab1/main.c
