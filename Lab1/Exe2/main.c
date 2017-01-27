@@ -7,11 +7,13 @@
 
 int main(int argc, char **argv){
     int num;
-    sscanf (argv[1],"%d",&num);
+    sscanf (argv[2],"%d",&num);
 
     int num2;
-    sscanf (argv[2],"%d",&num2);
+    sscanf (argv[3],"%d",&num2);
 
-    areaOfRectangle(num,num2);
+    if(argv[1] == "Rectangle"){
+        areaOfRectangle(num,num2);
+    }
 }
 
