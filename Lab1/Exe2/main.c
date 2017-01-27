@@ -6,6 +6,6 @@
 #include "areaOfRectangle.h"
 
 int main(int argc, char **argv){
-    areaOfRectangle(8,9);
+    areaOfRectangle(argv[0],argv[1]);
 }
 
