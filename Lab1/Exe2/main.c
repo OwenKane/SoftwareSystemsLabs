@@ -13,6 +13,8 @@ int main(int argc, char **argv){
     int num2;
     sscanf (argv[3],"%d",&num2);
 
+    printf("The lenth of input arg[1]  is: %d", strlen(argv[1]));
+
     if(strcmp(argv[1], "Rectangle")) {
         areaOfRectangle(num,num2);
     }
