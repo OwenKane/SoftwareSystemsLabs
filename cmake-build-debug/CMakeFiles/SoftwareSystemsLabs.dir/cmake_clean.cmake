@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/SoftwareSystemsLabs.dir/Lab1/hello.c.o"
+  "CMakeFiles/SoftwareSystemsLabs.dir/Lab1/main.c.o"
+  "CMakeFiles/SoftwareSystemsLabs.dir/Lab1/areaOfRectangle.c.o"
   "SoftwareSystemsLabs.pdb"
   "SoftwareSystemsLabs"
 )

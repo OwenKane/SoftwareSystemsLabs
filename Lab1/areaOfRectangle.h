@@ -1,0 +1,10 @@
+//
+// Created by Owen Kane on 27/01/2017.
+//
+
+#ifndef SOFTWARESYSTEMSLABS_AREAOFRECTANGLE_H
+#define SOFTWARESYSTEMSLABS_AREAOFRECTANGLE_H
+
+int areaOfRectangle(int side1, int side2);
+
+#endif //SOFTWARESYSTEMSLABS_AREAOFRECTANGLE_H
