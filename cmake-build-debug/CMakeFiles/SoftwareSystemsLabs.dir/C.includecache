@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab1/hello.c
+stdio.h
+/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab1/stdio.h
+
