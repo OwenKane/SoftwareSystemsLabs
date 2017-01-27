@@ -6,6 +6,12 @@
 #include "areaOfRectangle.h"
 
 int main(int argc, char **argv){
-    areaOfRectangle(argv[1],argv[2]);
+    int num;
+    sscanf (argv[1],"%d",&num);
+
+    int num2;
+    sscanf (argv[2],"%d",&num2);
+
+    areaOfRectangle(num,num2);
 }
 
