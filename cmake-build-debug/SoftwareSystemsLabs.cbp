@@ -89,6 +89,15 @@
 		<Unit filename="/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab1/Exe2/main.c">
 			<Option target="SoftwareSystemsLabs"/>
 		</Unit>
+		<Unit filename="/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab2/Part1/newMessage.c">
+			<Option target="SoftwareSystemsLabs"/>
+		</Unit>
+		<Unit filename="/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab2/Part1/newMessage.h.h">
+			<Option target="SoftwareSystemsLabs"/>
+		</Unit>
+		<Unit filename="/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab2/Part1/program1.c">
+			<Option target="SoftwareSystemsLabs"/>
+		</Unit>
 		<Unit filename="/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

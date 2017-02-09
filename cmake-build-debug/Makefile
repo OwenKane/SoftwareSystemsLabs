@@ -177,6 +177,60 @@ Lab1/Exe2/main.c.s:
 	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab1/Exe2/main.c.s
 .PHONY : Lab1/Exe2/main.c.s
 
+Lab2/Part1/newMessage.o: Lab2/Part1/newMessage.c.o
+
+.PHONY : Lab2/Part1/newMessage.o
+
+# target to build an object file
+Lab2/Part1/newMessage.c.o:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.o
+.PHONY : Lab2/Part1/newMessage.c.o
+
+Lab2/Part1/newMessage.i: Lab2/Part1/newMessage.c.i
+
+.PHONY : Lab2/Part1/newMessage.i
+
+# target to preprocess a source file
+Lab2/Part1/newMessage.c.i:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.i
+.PHONY : Lab2/Part1/newMessage.c.i
+
+Lab2/Part1/newMessage.s: Lab2/Part1/newMessage.c.s
+
+.PHONY : Lab2/Part1/newMessage.s
+
+# target to generate assembly for a file
+Lab2/Part1/newMessage.c.s:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.s
+.PHONY : Lab2/Part1/newMessage.c.s
+
+Lab2/Part1/program1.o: Lab2/Part1/program1.c.o
+
+.PHONY : Lab2/Part1/program1.o
+
+# target to build an object file
+Lab2/Part1/program1.c.o:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.o
+.PHONY : Lab2/Part1/program1.c.o
+
+Lab2/Part1/program1.i: Lab2/Part1/program1.c.i
+
+.PHONY : Lab2/Part1/program1.i
+
+# target to preprocess a source file
+Lab2/Part1/program1.c.i:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.i
+.PHONY : Lab2/Part1/program1.c.i
+
+Lab2/Part1/program1.s: Lab2/Part1/program1.c.s
+
+.PHONY : Lab2/Part1/program1.s
+
+# target to generate assembly for a file
+Lab2/Part1/program1.c.s:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.s
+.PHONY : Lab2/Part1/program1.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -192,6 +246,12 @@ help:
 	@echo "... Lab1/Exe2/main.o"
 	@echo "... Lab1/Exe2/main.i"
 	@echo "... Lab1/Exe2/main.s"
+	@echo "... Lab2/Part1/newMessage.o"
+	@echo "... Lab2/Part1/newMessage.i"
+	@echo "... Lab2/Part1/newMessage.s"
+	@echo "... Lab2/Part1/program1.o"
+	@echo "... Lab2/Part1/program1.i"
+	@echo "... Lab2/Part1/program1.s"
 .PHONY : help
 
 

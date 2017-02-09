@@ -105,19 +105,71 @@ CMakeFiles/SoftwareSystemsLabs.dir/Lab1/Exe2/areaOfRectangle.c.o.provides: CMake
 CMakeFiles/SoftwareSystemsLabs.dir/Lab1/Exe2/areaOfRectangle.c.o.provides.build: CMakeFiles/SoftwareSystemsLabs.dir/Lab1/Exe2/areaOfRectangle.c.o
 
 
+CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.o: CMakeFiles/SoftwareSystemsLabs.dir/flags.make
+CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.o: ../Lab2/Part1/newMessage.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.o   -c "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab2/Part1/newMessage.c"
+
+CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab2/Part1/newMessage.c" > CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.i
+
+CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab2/Part1/newMessage.c" -o CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.s
+
+CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.o.requires:
+
+.PHONY : CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.o.requires
+
+CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.o.provides: CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.o.requires
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.o.provides.build
+.PHONY : CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.o.provides
+
+CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.o.provides.build: CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.o
+
+
+CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.o: CMakeFiles/SoftwareSystemsLabs.dir/flags.make
+CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.o: ../Lab2/Part1/program1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.o   -c "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab2/Part1/program1.c"
+
+CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab2/Part1/program1.c" > CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.i
+
+CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab2/Part1/program1.c" -o CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.s
+
+CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.o.requires:
+
+.PHONY : CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.o.requires
+
+CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.o.provides: CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.o.requires
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.o.provides.build
+.PHONY : CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.o.provides
+
+CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.o.provides.build: CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.o
+
+
 # Object files for target SoftwareSystemsLabs
 SoftwareSystemsLabs_OBJECTS = \
 "CMakeFiles/SoftwareSystemsLabs.dir/Lab1/Exe2/main.c.o" \
-"CMakeFiles/SoftwareSystemsLabs.dir/Lab1/Exe2/areaOfRectangle.c.o"
+"CMakeFiles/SoftwareSystemsLabs.dir/Lab1/Exe2/areaOfRectangle.c.o" \
+"CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.o" \
+"CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.o"
 
 # External object files for target SoftwareSystemsLabs
 SoftwareSystemsLabs_EXTERNAL_OBJECTS =
 
 SoftwareSystemsLabs: CMakeFiles/SoftwareSystemsLabs.dir/Lab1/Exe2/main.c.o
 SoftwareSystemsLabs: CMakeFiles/SoftwareSystemsLabs.dir/Lab1/Exe2/areaOfRectangle.c.o
+SoftwareSystemsLabs: CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.o
+SoftwareSystemsLabs: CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.o
 SoftwareSystemsLabs: CMakeFiles/SoftwareSystemsLabs.dir/build.make
 SoftwareSystemsLabs: CMakeFiles/SoftwareSystemsLabs.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable SoftwareSystemsLabs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable SoftwareSystemsLabs"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/SoftwareSystemsLabs.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -127,6 +179,8 @@ CMakeFiles/SoftwareSystemsLabs.dir/build: SoftwareSystemsLabs
 
 CMakeFiles/SoftwareSystemsLabs.dir/requires: CMakeFiles/SoftwareSystemsLabs.dir/Lab1/Exe2/main.c.o.requires
 CMakeFiles/SoftwareSystemsLabs.dir/requires: CMakeFiles/SoftwareSystemsLabs.dir/Lab1/Exe2/areaOfRectangle.c.o.requires
+CMakeFiles/SoftwareSystemsLabs.dir/requires: CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.o.requires
+CMakeFiles/SoftwareSystemsLabs.dir/requires: CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.o.requires
 
 .PHONY : CMakeFiles/SoftwareSystemsLabs.dir/requires
 
