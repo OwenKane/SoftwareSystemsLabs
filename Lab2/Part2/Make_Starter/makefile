@@ -1,6 +1,6 @@
 CC = gcc
-objects = main.o areaOfRectangle.o areaOfSquare.o areaOfCircle.o areaOfTriangle.o
-headers = areaOfRectangle.h areaOfSquare.h areaOfCircle.h areaOfTriangle.h
+objects = main.o areaOfRectangle.o areaOfSquare.o areaOfCircle.o area_of_triangle.o
+headers = areaOfRectangle.h areaOfSquare.h areaOfCircle.h area_of_triangle.h
 
 myprog : $(objects)
 	$(CC) -o areaProg $(objects) -lm
@@ -18,7 +18,7 @@ areaOfCircle.o : areaOfCircle.c
 	$(CC) -c areaOfCircle.c
 
 areaOfTriangle.o : areaOfTriangle.c
-	$(CC) -c areaOfTriangle.c -lm
+	$(CC) -c area_of_triangle.c -lm
 
 clean:
 	rm areaProg $(objects)
