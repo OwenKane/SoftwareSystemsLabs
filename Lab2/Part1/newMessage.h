@@ -1,10 +1,10 @@
 //
-// Created by Owen Kane on 09/02/2017.
+// Created by Owen Kane on 22/02/2017.
 //
 
 #ifndef SOFTWARESYSTEMSLABS_NEWMESSAGE_H
 #define SOFTWARESYSTEMSLABS_NEWMESSAGE_H
 
-void  sayHello(char* message);
+void sayHello(char* message);
 
 #endif //SOFTWARESYSTEMSLABS_NEWMESSAGE_H

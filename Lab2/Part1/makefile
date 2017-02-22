@@ -7,5 +7,5 @@ newMessage.o : newMessage.c
 program1.o : program1.c newMessage.h
 	gcc -c program1.c
 
-clean: 
+clean:
 	rm myprog newMessage.o program1.o
