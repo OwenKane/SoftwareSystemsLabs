@@ -6,8 +6,14 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_C
   "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab1/Exe2/areaOfRectangle.c" "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/cmake-build-debug/CMakeFiles/SoftwareSystemsLabs.dir/Lab1/Exe2/areaOfRectangle.c.o"
   "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab1/Exe2/main.c" "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/cmake-build-debug/CMakeFiles/SoftwareSystemsLabs.dir/Lab1/Exe2/main.c.o"
-  "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab2(2)/Part1/newMessage.c" "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/cmake-build-debug/CMakeFiles/SoftwareSystemsLabs.dir/Lab2(2)/Part1/newMessage.c.o"
-  "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab2(2)/Part1/program1.c" "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/cmake-build-debug/CMakeFiles/SoftwareSystemsLabs.dir/Lab2(2)/Part1/program1.c.o"
+  "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab2/Part1/newMessage.c" "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/cmake-build-debug/CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.o"
+  "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab2/Part1/program1.c" "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/cmake-build-debug/CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.o"
+  "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab3/Q1.c" "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/cmake-build-debug/CMakeFiles/SoftwareSystemsLabs.dir/Lab3/Q1.c.o"
+  "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab3/lab3.c" "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/cmake-build-debug/CMakeFiles/SoftwareSystemsLabs.dir/Lab3/lab3.c.o"
+  "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab4/part1.c" "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/cmake-build-debug/CMakeFiles/SoftwareSystemsLabs.dir/Lab4/part1.c.o"
+  "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab5/lecture.c" "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/cmake-build-debug/CMakeFiles/SoftwareSystemsLabs.dir/Lab5/lecture.c.o"
+  "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab5/lecture2.c" "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/cmake-build-debug/CMakeFiles/SoftwareSystemsLabs.dir/Lab5/lecture2.c.o"
+  "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/Lab5/part3.c" "/Users/owenkane/Documents/College/Systems Software/SoftwareSystemsLabs/cmake-build-debug/CMakeFiles/SoftwareSystemsLabs.dir/Lab5/part3.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

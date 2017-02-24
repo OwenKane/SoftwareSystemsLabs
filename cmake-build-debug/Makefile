@@ -177,59 +177,221 @@ Lab1/Exe2/main.c.s:
 	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab1/Exe2/main.c.s
 .PHONY : Lab1/Exe2/main.c.s
 
-Lab2(2)/Part1/newMessage.o: Lab2(2)/Part1/newMessage.c.o
+Lab2/Part1/newMessage.o: Lab2/Part1/newMessage.c.o
 
-.PHONY : Lab2(2)/Part1/newMessage.o
-
-# target to build an object file
-Lab2(2)/Part1/newMessage.c.o:
-	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make "CMakeFiles/SoftwareSystemsLabs.dir/Lab2(2)/Part1/newMessage.c.o"
-.PHONY : Lab2(2)/Part1/newMessage.c.o
-
-Lab2(2)/Part1/newMessage.i: Lab2(2)/Part1/newMessage.c.i
-
-.PHONY : Lab2(2)/Part1/newMessage.i
-
-# target to preprocess a source file
-Lab2(2)/Part1/newMessage.c.i:
-	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make "CMakeFiles/SoftwareSystemsLabs.dir/Lab2(2)/Part1/newMessage.c.i"
-.PHONY : Lab2(2)/Part1/newMessage.c.i
-
-Lab2(2)/Part1/newMessage.s: Lab2(2)/Part1/newMessage.c.s
-
-.PHONY : Lab2(2)/Part1/newMessage.s
-
-# target to generate assembly for a file
-Lab2(2)/Part1/newMessage.c.s:
-	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make "CMakeFiles/SoftwareSystemsLabs.dir/Lab2(2)/Part1/newMessage.c.s"
-.PHONY : Lab2(2)/Part1/newMessage.c.s
-
-Lab2(2)/Part1/program1.o: Lab2(2)/Part1/program1.c.o
-
-.PHONY : Lab2(2)/Part1/program1.o
+.PHONY : Lab2/Part1/newMessage.o
 
 # target to build an object file
-Lab2(2)/Part1/program1.c.o:
-	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make "CMakeFiles/SoftwareSystemsLabs.dir/Lab2(2)/Part1/program1.c.o"
-.PHONY : Lab2(2)/Part1/program1.c.o
+Lab2/Part1/newMessage.c.o:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.o
+.PHONY : Lab2/Part1/newMessage.c.o
 
-Lab2(2)/Part1/program1.i: Lab2(2)/Part1/program1.c.i
+Lab2/Part1/newMessage.i: Lab2/Part1/newMessage.c.i
 
-.PHONY : Lab2(2)/Part1/program1.i
+.PHONY : Lab2/Part1/newMessage.i
 
 # target to preprocess a source file
-Lab2(2)/Part1/program1.c.i:
-	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make "CMakeFiles/SoftwareSystemsLabs.dir/Lab2(2)/Part1/program1.c.i"
-.PHONY : Lab2(2)/Part1/program1.c.i
+Lab2/Part1/newMessage.c.i:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.i
+.PHONY : Lab2/Part1/newMessage.c.i
 
-Lab2(2)/Part1/program1.s: Lab2(2)/Part1/program1.c.s
+Lab2/Part1/newMessage.s: Lab2/Part1/newMessage.c.s
 
-.PHONY : Lab2(2)/Part1/program1.s
+.PHONY : Lab2/Part1/newMessage.s
 
 # target to generate assembly for a file
-Lab2(2)/Part1/program1.c.s:
-	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make "CMakeFiles/SoftwareSystemsLabs.dir/Lab2(2)/Part1/program1.c.s"
-.PHONY : Lab2(2)/Part1/program1.c.s
+Lab2/Part1/newMessage.c.s:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/newMessage.c.s
+.PHONY : Lab2/Part1/newMessage.c.s
+
+Lab2/Part1/program1.o: Lab2/Part1/program1.c.o
+
+.PHONY : Lab2/Part1/program1.o
+
+# target to build an object file
+Lab2/Part1/program1.c.o:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.o
+.PHONY : Lab2/Part1/program1.c.o
+
+Lab2/Part1/program1.i: Lab2/Part1/program1.c.i
+
+.PHONY : Lab2/Part1/program1.i
+
+# target to preprocess a source file
+Lab2/Part1/program1.c.i:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.i
+.PHONY : Lab2/Part1/program1.c.i
+
+Lab2/Part1/program1.s: Lab2/Part1/program1.c.s
+
+.PHONY : Lab2/Part1/program1.s
+
+# target to generate assembly for a file
+Lab2/Part1/program1.c.s:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab2/Part1/program1.c.s
+.PHONY : Lab2/Part1/program1.c.s
+
+Lab3/Q1.o: Lab3/Q1.c.o
+
+.PHONY : Lab3/Q1.o
+
+# target to build an object file
+Lab3/Q1.c.o:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab3/Q1.c.o
+.PHONY : Lab3/Q1.c.o
+
+Lab3/Q1.i: Lab3/Q1.c.i
+
+.PHONY : Lab3/Q1.i
+
+# target to preprocess a source file
+Lab3/Q1.c.i:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab3/Q1.c.i
+.PHONY : Lab3/Q1.c.i
+
+Lab3/Q1.s: Lab3/Q1.c.s
+
+.PHONY : Lab3/Q1.s
+
+# target to generate assembly for a file
+Lab3/Q1.c.s:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab3/Q1.c.s
+.PHONY : Lab3/Q1.c.s
+
+Lab3/lab3.o: Lab3/lab3.c.o
+
+.PHONY : Lab3/lab3.o
+
+# target to build an object file
+Lab3/lab3.c.o:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab3/lab3.c.o
+.PHONY : Lab3/lab3.c.o
+
+Lab3/lab3.i: Lab3/lab3.c.i
+
+.PHONY : Lab3/lab3.i
+
+# target to preprocess a source file
+Lab3/lab3.c.i:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab3/lab3.c.i
+.PHONY : Lab3/lab3.c.i
+
+Lab3/lab3.s: Lab3/lab3.c.s
+
+.PHONY : Lab3/lab3.s
+
+# target to generate assembly for a file
+Lab3/lab3.c.s:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab3/lab3.c.s
+.PHONY : Lab3/lab3.c.s
+
+Lab4/part1.o: Lab4/part1.c.o
+
+.PHONY : Lab4/part1.o
+
+# target to build an object file
+Lab4/part1.c.o:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab4/part1.c.o
+.PHONY : Lab4/part1.c.o
+
+Lab4/part1.i: Lab4/part1.c.i
+
+.PHONY : Lab4/part1.i
+
+# target to preprocess a source file
+Lab4/part1.c.i:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab4/part1.c.i
+.PHONY : Lab4/part1.c.i
+
+Lab4/part1.s: Lab4/part1.c.s
+
+.PHONY : Lab4/part1.s
+
+# target to generate assembly for a file
+Lab4/part1.c.s:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab4/part1.c.s
+.PHONY : Lab4/part1.c.s
+
+Lab5/lecture.o: Lab5/lecture.c.o
+
+.PHONY : Lab5/lecture.o
+
+# target to build an object file
+Lab5/lecture.c.o:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab5/lecture.c.o
+.PHONY : Lab5/lecture.c.o
+
+Lab5/lecture.i: Lab5/lecture.c.i
+
+.PHONY : Lab5/lecture.i
+
+# target to preprocess a source file
+Lab5/lecture.c.i:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab5/lecture.c.i
+.PHONY : Lab5/lecture.c.i
+
+Lab5/lecture.s: Lab5/lecture.c.s
+
+.PHONY : Lab5/lecture.s
+
+# target to generate assembly for a file
+Lab5/lecture.c.s:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab5/lecture.c.s
+.PHONY : Lab5/lecture.c.s
+
+Lab5/lecture2.o: Lab5/lecture2.c.o
+
+.PHONY : Lab5/lecture2.o
+
+# target to build an object file
+Lab5/lecture2.c.o:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab5/lecture2.c.o
+.PHONY : Lab5/lecture2.c.o
+
+Lab5/lecture2.i: Lab5/lecture2.c.i
+
+.PHONY : Lab5/lecture2.i
+
+# target to preprocess a source file
+Lab5/lecture2.c.i:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab5/lecture2.c.i
+.PHONY : Lab5/lecture2.c.i
+
+Lab5/lecture2.s: Lab5/lecture2.c.s
+
+.PHONY : Lab5/lecture2.s
+
+# target to generate assembly for a file
+Lab5/lecture2.c.s:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab5/lecture2.c.s
+.PHONY : Lab5/lecture2.c.s
+
+Lab5/part3.o: Lab5/part3.c.o
+
+.PHONY : Lab5/part3.o
+
+# target to build an object file
+Lab5/part3.c.o:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab5/part3.c.o
+.PHONY : Lab5/part3.c.o
+
+Lab5/part3.i: Lab5/part3.c.i
+
+.PHONY : Lab5/part3.i
+
+# target to preprocess a source file
+Lab5/part3.c.i:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab5/part3.c.i
+.PHONY : Lab5/part3.c.i
+
+Lab5/part3.s: Lab5/part3.c.s
+
+.PHONY : Lab5/part3.s
+
+# target to generate assembly for a file
+Lab5/part3.c.s:
+	$(MAKE) -f CMakeFiles/SoftwareSystemsLabs.dir/build.make CMakeFiles/SoftwareSystemsLabs.dir/Lab5/part3.c.s
+.PHONY : Lab5/part3.c.s
 
 # Help Target
 help:
@@ -246,12 +408,30 @@ help:
 	@echo "... Lab1/Exe2/main.o"
 	@echo "... Lab1/Exe2/main.i"
 	@echo "... Lab1/Exe2/main.s"
-	@echo "... Lab2(2)/Part1/newMessage.o"
-	@echo "... Lab2(2)/Part1/newMessage.i"
-	@echo "... Lab2(2)/Part1/newMessage.s"
-	@echo "... Lab2(2)/Part1/program1.o"
-	@echo "... Lab2(2)/Part1/program1.i"
-	@echo "... Lab2(2)/Part1/program1.s"
+	@echo "... Lab2/Part1/newMessage.o"
+	@echo "... Lab2/Part1/newMessage.i"
+	@echo "... Lab2/Part1/newMessage.s"
+	@echo "... Lab2/Part1/program1.o"
+	@echo "... Lab2/Part1/program1.i"
+	@echo "... Lab2/Part1/program1.s"
+	@echo "... Lab3/Q1.o"
+	@echo "... Lab3/Q1.i"
+	@echo "... Lab3/Q1.s"
+	@echo "... Lab3/lab3.o"
+	@echo "... Lab3/lab3.i"
+	@echo "... Lab3/lab3.s"
+	@echo "... Lab4/part1.o"
+	@echo "... Lab4/part1.i"
+	@echo "... Lab4/part1.s"
+	@echo "... Lab5/lecture.o"
+	@echo "... Lab5/lecture.i"
+	@echo "... Lab5/lecture.s"
+	@echo "... Lab5/lecture2.o"
+	@echo "... Lab5/lecture2.i"
+	@echo "... Lab5/lecture2.s"
+	@echo "... Lab5/part3.o"
+	@echo "... Lab5/part3.i"
+	@echo "... Lab5/part3.s"
 .PHONY : help
 
 
